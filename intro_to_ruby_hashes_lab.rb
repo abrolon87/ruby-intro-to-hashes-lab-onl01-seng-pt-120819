@@ -21,7 +21,7 @@ def monopoly_with_second_tier
 			:pieces => 4,
 			:names => {},
 			:rent_in_dollars => {
-				:one_piece_owned => 3,
+				#:one_piece_owned => 3,
 			},
 		},
 	}#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
